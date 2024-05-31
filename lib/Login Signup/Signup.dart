@@ -227,7 +227,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                       style: TextStyle(color: Colors.white),
                       validator: _validateConfirmPassword,
                     ),
-                    SizedBox(height: 60.0),
+                    SizedBox(height: 50.0),
                     ElevatedButton(
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.white,
