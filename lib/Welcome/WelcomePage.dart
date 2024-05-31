@@ -23,7 +23,7 @@ class WelcomePage extends StatelessWidget {
                 padding: EdgeInsets.symmetric(horizontal: 16),
                 child: Column(
                   children: [
-                    SizedBox(height: 120),
+                    SizedBox(height: 110),
                     Container(
                       height: 200,
                       width: 200,
@@ -43,7 +43,7 @@ class WelcomePage extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(height: 40),
+                    SizedBox(height: 60),
                     Text(
                       "Let's save a Life with Blood Camp",
                       style: TextStyle(
