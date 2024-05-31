@@ -59,7 +59,7 @@ class HomePage extends StatelessWidget {
                   ),
                 ),
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 30),
               Text(
                 'Recent Donation Camps',
                 style: TextStyle(
@@ -90,7 +90,7 @@ class HomePage extends StatelessWidget {
                             Icon(Icons.location_on, color: Colors.redAccent),
                         title: Text('Camp at Rahula Collage'),
                         subtitle:
-                            Text('Date: 2024-06-05, Time: 9:00 AM - 1:00 PM'),
+                            Text('Date: 2024-06-07, Time: 9:00 AM - 1:00 PM'),
                       ),
                       Divider(),
                       ListTile(
